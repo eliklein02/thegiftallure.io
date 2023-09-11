@@ -1,5 +1,6 @@
 html, body {
 	margin: 0px;
+	height: 100%;
 }
 
 * {
@@ -10,8 +11,8 @@ html, body {
 	display: none;
 }
 
-.bgimage {
-	height: 100vh;
+.smallscreen {
+	height: 100%;
 	width: 100%;
 	background-image: url('comingsoonphone.jpg');
 /*	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("comingsoonphone.jpg");*/
